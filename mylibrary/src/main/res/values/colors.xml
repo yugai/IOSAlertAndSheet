@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ios_title">#efc3c4c6</color>
+    <color name="ios_button">#FF3680F9</color>
+    <color name="ios_cancel">#FF3680F9</color>
+
+    <color name="alert_bg">#f7f7f7f7</color>
+    <color name="alert_press">#d4d4d4</color>
+    <color name="alert_title">#252525</color>
+    <color name="alert_message">#565656</color>
+    <color name="alert_button">#FF3680F9</color>
+</resources>
